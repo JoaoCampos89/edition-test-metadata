@@ -1,0 +1,11 @@
+{
+  "name": "DexKitTestEdition",
+  "description": "This is a test edition",
+  "image": "https://raw.githubusercontent.com/JoaoCampos89/edition-test-metadata/main/images/logo.png",
+  "background_color": "000000",
+  "attributes": [
+    { "trait_type": "logo", "value": "3" },
+    { "trait_type": "Element", "value": "Fire" },
+    { "trait_type": "Color", "value": "Gold" }
+  ]
+}
